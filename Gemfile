@@ -30,6 +30,8 @@ gem 'devise'
 # Faker for seed data
 gem 'faker'
 
+gem 'rspec-rails'
+
 # Use Unicorn as the app server
 # gem 'unicorn'
 
